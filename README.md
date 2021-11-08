@@ -29,4 +29,4 @@ Com muita paixão descobri logo no início do curso de Ciência da Computação 
 
 [![LeonardoBAV github stats](https://github-readme-stats.vercel.app/api?username=LeonardoBAV&show_icons=true&title_color=fff&icon_color=37aaff&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/LeonardoBAV)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peguimasid&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/peguimasid)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoBAV&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/LeonardoBAV)
