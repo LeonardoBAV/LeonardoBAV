@@ -2,8 +2,8 @@
 # Olá, Eu sou Leonardo Borges Athayde Vasconcelos
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/LeonardoBAV)](https://github.com/LeonardoBAV)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermo-masid-494677b8/)](https://www.linkedin.com/in/guilhermo-masid-494677b8/)
-[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCTF5MfUsa-9dFCOHFTA9xzw)](https://www.youtube.com/channel/UCTF5MfUsa-9dFCOHFTA9xzw)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-borges-athayde-vasconcelos-b4b556120/)](https://www.linkedin.com/in/leonardo-borges-athayde-vasconcelos-b4b556120/)
+[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCyGbHuus5GS58Ash9xeMJmQ)](https://www.youtube.com/channel/UCyGbHuus5GS58Ash9xeMJmQ)
 
 ## About me:
 
