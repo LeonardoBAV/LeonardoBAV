@@ -7,9 +7,7 @@
 
 ## About me:
 
-I'm a Fullstack Developer :smile:
-
-I Love code and create new stuff, i like too much to discover new technologies and dive deep in solving problems.
+Com muita paixão descobri logo no início do curso de Ciência da Computação a programação. Ter o poder de desenvolver programas e automatizar tarefas da forma que quisesse, eu simplesmente achava incrível. Atualmente tenho buscado estar em constante atualização e aprendizado afim de me tornar um profissional cada vez mais qualificado. 
 
 ## My specialties:
 
