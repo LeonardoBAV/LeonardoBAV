@@ -11,20 +11,9 @@ Com muita paixão descobri logo no início do curso de Ciência da Computação 
 
 ## Especialidades:
 
-### Linguagens: <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
 
-### Frontend: <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> 
-
-### Backend: <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> 
-
-### Banco de Dasos: <img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/> 
-
-### Controle de Versão: <img src="https://img.shields.io/badge/git%20-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
-
-### Hospedagens: <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/> 
-
-### DevOps: 
-<img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/> 
+### Backend: ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+ 
 
 [![LeonardoBAV github stats](https://github-readme-stats.vercel.app/api?username=LeonardoBAV&show_icons=true&title_color=fff&icon_color=37aaff&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/LeonardoBAV)
 
