@@ -12,7 +12,7 @@ Com muita paixão descobri logo no início do curso de Ciência da Computação 
 ## Especialidades:
 
 
-### Backend: ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+### Back-end: ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
  
 
 [![LeonardoBAV github stats](https://github-readme-stats.vercel.app/api?username=LeonardoBAV&show_icons=true&title_color=fff&icon_color=37aaff&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/LeonardoBAV)
