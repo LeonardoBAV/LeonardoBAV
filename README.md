@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-borges-athayde-vasconcelos-b4b556120/)](https://www.linkedin.com/in/leonardo-borges-athayde-vasconcelos-b4b556120/)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCyGbHuus5GS58Ash9xeMJmQ)](https://www.youtube.com/channel/UCyGbHuus5GS58Ash9xeMJmQ)
 
-## About me:
+## Sobre:
 
 Com muita paixão descobri logo no início do curso de Ciência da Computação a programação. Ter o poder de desenvolver programas e automatizar tarefas da forma que quisesse, eu simplesmente achava incrível. Atualmente tenho buscado estar em constante atualização e aprendizado afim de me tornar um profissional cada vez mais qualificado. 
 
